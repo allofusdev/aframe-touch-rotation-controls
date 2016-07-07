@@ -92,7 +92,6 @@
 	  },
 
 	  addEventListeners: function () {
-		  console.log("Touch add events");
 	    var sceneEl = this.el.sceneEl;
 	    var canvasEl = sceneEl.canvas;
 

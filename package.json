@@ -1,6 +1,6 @@
 {
   "name": "aframe-touch-rotation-controls",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Touch rotation controls for rotating a camera in A-Frame",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/allanweir/aframe-touch-rotation-controls.git"
+    "url": "git+https://github.com/allofusdev/aframe-touch-rotation-controls.git"
   },
   "keywords": [
     "aframe",
@@ -24,12 +24,12 @@
     "mozvr",
     "webvr"
   ],
-  "author": "Kevin Ngo <me@ngokevin.com>",
+  "author": "Allan Weir <allan@allofus.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allanweir/aframe-touch-rotation-controls/issues"
+    "url": "https://github.com/allofusdev/aframe-touch-rotation-controls/issues"
   },
-  "homepage": "https://github.com/allanweir/aframe-touch-rotation-controls#readme",
+  "homepage": "https://github.com/allofusdev/aframe-touch-rotation-controls#readme",
   "devDependencies": {
     "aframe": "^0.2.0",
     "browserify": "^13.0.0",
